@@ -1,6 +1,6 @@
 <?php
 
-namespace Irabbi360\LaravelVideoable;
+namespace Irabbi360\LaravelVideoable\Models;
 
 use Illuminate\Database\Eloquent\Model;
 use Irabbi360\LaravelVideoable\Exceptions\VideoPresenterNotFound;
