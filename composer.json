@@ -1,9 +1,14 @@
 {
     "name": "irabbi360/laravel-videoable",
-    "description": "Add video to a model",
+    "description": "Attach Videos to your Eloquent Models",
     "keywords": [
         "irabbi360",
-        "laravel-videoable"
+        "laravel-videoable",
+        "laravel",
+        "laravel-videoable",
+        "video",
+        "youtube",
+        "vimeo"
     ],
     "homepage": "https://github.com/irabbi360/laravel-videoable",
     "license": "MIT",
